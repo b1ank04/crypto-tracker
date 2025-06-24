@@ -18,6 +18,7 @@ export default class CurrencyController {
   }
 
   static getDataById = async (id, type, days) => {
+    console.log(days)
     try {
       const data = {
         labels: [],
