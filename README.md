@@ -21,7 +21,7 @@ A React application for tracking cryptocurrency prices, trends, and market data.
 ## Getting Started
 
 1. Clone the repository:
-   ```git clone <repository-url>```
+   ```git clone git@github.com:b1ank04/crypto-tracker.git```
 2. Install dependencies:
    ```npm install```
 3. Start the development server:
